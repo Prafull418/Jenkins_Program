@@ -2,7 +2,7 @@ package com.test;
 
 import java.util.Date;
 
-public class TestJenkins {
+public class Main {
 
 	public static void main(String[] args) {
 		
